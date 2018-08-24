@@ -1,0 +1,42 @@
+#PoW
+
+_“that in order to make a man/woman covet a thing, it is only necessary to make the thing difficult to attain.”_ - Mark Twain
+
+A ledger can only be immutable if and only if it is costly to produce. The fact that PoW is “costly” is a feature, not a bug. 
+
+Until very recently, securing something meant building a thick wall around whatever is deemed valuable. We all know how to do this, and we all agree that this is a sensible thing to do. The new world of cryptocurrencies is unintuitive and weird - there are no physical walls to protect our money, no doors to access our vaults. 
+
+Bitcoin’s public ledger is secured by its collective hashing power: the sum of all energy expended to do the work in its proof-of-work chain.
+
+In the early 20th century, industry leaders like Henry Ford and Thomas Edison were interested in displacing gold or the dollar with "the energy dollar” or “units of energy” (commodity/energy currency). The concept was popular due to its sound money characteristics, including: a well defined unit of account that can easily be measured not easily counterfeited, divisibility into smaller units, and that these units would be equivalent to any other unit. (note on Hashcash might be good) 
+
+When Satoshi wrote “One CPU one vote” he was fundamentally changing how consensus is formed from political votes to apolitical hashes via the conversion of energy. PoW is proof of burn, or the validation that energy was burnt. Why is that important? It's the most simplistic and fair way for the physical world to validate something in the digital world. PoW is about physics, not code. Bitcoin is a real asset, minted from energy, the fundamental commodity of the universe.
+
+The rate of ASIC efficiency improvement is slowing. As efficiency gains slow we can expect an increase in manufacturer competition as margins narrow. All-in mining cost-of-coin will shift from the upfront accessibility cost of ASIC hardware (capex) to the ongoing energy costs to operate (opex). Mining moves directly to where electricity is being produced to reduce opex. Any application that is willing to pay higher than the rate of return on Bitcoin mining will be prioritized, 
+which is a majority of processes (ex: your dishwasher is willing to pay more for the electricity than a Bitcoin miner). The cost of Bitcoin mining becomes the lowest (excess) value of electricity. This will solve a major problem with renewable energy - variable output. Now energy producers can plug in miners, and store the excess power as bitcoin. 
+
+![alt text](https://i.imgur.com/aTpMZNd.png "Mining Difficulty Level")
+
+https://cseweb.ucsd.edu/~mbtaylor/papers/Taylor_Bitcoin_IEEE_Computer_2017.pdf
+
+In thermodynamics, the universe is the ultimate closed system. Bitcoin’s utilization of the excess electrical capacity consumes magnitudes less electricity than existing fiat systems which not only have power requirements banking infrastructure, but the military and political machina. 
+
+The energy tradeoff (1st law of thermodynamics) for the utilization of that electricity to secure the financial system backbone is a “net positive” outcome from an environmentally conscious perspective. 
+
+Some complain that Bitcoin mining doesn’t accomplish “anything useful” like finding prime numbers. While introducing a secondary reward for doing the work might seem like a good idea, it actually introduces a security risk.
+
+Splitting the reward can lead to a situation where “it’s more worthwhile to do the secondary function that it is to do the primary function”. Bitcoin will never have this problem. Bitcoin guarantees its security by the purity of its proof-of-work algorithm.
+
+Quick take on PoS vs PoW:
+
+PoS: SITG based on the possibility of burning something that might be valuable
+PoW: SITG through the burning of energy 
+
+PoS: Politics 
+PoW: Hashes 
+
+PoW: Forces circulation 
+PoS: Forces aggregation (promotes rent seeking) 
+
+PoS: Opportunity cost not measurable 
+PoW: Opportunity cost is measurable through Capex and Opex (hardware/energy)
